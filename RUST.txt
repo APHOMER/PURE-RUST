@@ -1,0 +1,5 @@
+
+cargo init - to create another project(you must cd into the folder first)
+
+
+
